@@ -2,6 +2,8 @@
 
 My final project for the [Hugging Face Agents Course](https://huggingface.co/learn/agents-course) (Unit 4): an agent that answers questions from the GAIA benchmark, which mix web research, files (Excel, images, audio, code) and multi-step reasoning.
 
+**Score: 70% (14/20) on the course leaderboard**, with five of the six misses being questions whose attached files the course API returned as 404.
+
 ## How it works
 
 ```
